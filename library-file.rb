@@ -6,3 +6,9 @@ class Blah
 
   end
 end
+
+class Blah2
+  def initialize
+
+  end
+end
